@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Warren Reader",
@@ -16,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/WarrenReader/egghead-react-boilerplate/issues"
   },
-  "homepage": "https://github.com/WarrenReader/egghead-react-boilerplate#readme"
+  "homepage": "https://github.com/WarrenReader/egghead-react-boilerplate#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3"
+  }
 }
