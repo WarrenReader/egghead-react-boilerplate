@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Warren Reader",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WarrenReader/egghead-react-boilerplate.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/WarrenReader/egghead-react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/WarrenReader/egghead-react-boilerplate#readme"
 }
